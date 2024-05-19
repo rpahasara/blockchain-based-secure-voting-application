@@ -1,1 +1,0 @@
-# Blockchain Based Secure Voting Application
